@@ -1,0 +1,28 @@
+*{
+    font-family: "Copperplate" , sans-serif;
+    font-size: medium;
+    color: #553300;
+    background-color: #ffddaa;
+}
+
+h1{
+    color: #bb9966;
+    text-align:center;
+    font-size: xx-large;
+}
+
+h3{
+    font-size: larger;
+    color: #886633;
+}
+
+.caption{
+    text-align:center;
+}
+
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
